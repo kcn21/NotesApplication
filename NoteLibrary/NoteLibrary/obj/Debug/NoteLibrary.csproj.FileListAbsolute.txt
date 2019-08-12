@@ -1,0 +1,6 @@
+D:\RAVI 6TH SEM\SOA\NoteLibrary\NoteLibrary\bin\Debug\NoteLibrary.dll.config
+D:\RAVI 6TH SEM\SOA\NoteLibrary\NoteLibrary\bin\Debug\NoteLibrary.dll
+D:\RAVI 6TH SEM\SOA\NoteLibrary\NoteLibrary\bin\Debug\NoteLibrary.pdb
+D:\RAVI 6TH SEM\SOA\NoteLibrary\NoteLibrary\obj\Debug\NoteLibrary.csprojResolveAssemblyReference.cache
+D:\RAVI 6TH SEM\SOA\NoteLibrary\NoteLibrary\obj\Debug\NoteLibrary.dll
+D:\RAVI 6TH SEM\SOA\NoteLibrary\NoteLibrary\obj\Debug\NoteLibrary.pdb

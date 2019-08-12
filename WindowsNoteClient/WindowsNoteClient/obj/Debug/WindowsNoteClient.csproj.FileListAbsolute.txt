@@ -1,0 +1,9 @@
+D:\RAVI 6TH SEM\SOA\WindowsNoteClient\WindowsNoteClient\bin\Debug\WindowsNoteClient.exe.config
+D:\RAVI 6TH SEM\SOA\WindowsNoteClient\WindowsNoteClient\bin\Debug\WindowsNoteClient.exe
+D:\RAVI 6TH SEM\SOA\WindowsNoteClient\WindowsNoteClient\bin\Debug\WindowsNoteClient.pdb
+D:\RAVI 6TH SEM\SOA\WindowsNoteClient\WindowsNoteClient\obj\Debug\WindowsNoteClient.csprojResolveAssemblyReference.cache
+D:\RAVI 6TH SEM\SOA\WindowsNoteClient\WindowsNoteClient\obj\Debug\WindowsNoteClient.Form1.resources
+D:\RAVI 6TH SEM\SOA\WindowsNoteClient\WindowsNoteClient\obj\Debug\WindowsNoteClient.Properties.Resources.resources
+D:\RAVI 6TH SEM\SOA\WindowsNoteClient\WindowsNoteClient\obj\Debug\WindowsNoteClient.csproj.GenerateResource.Cache
+D:\RAVI 6TH SEM\SOA\WindowsNoteClient\WindowsNoteClient\obj\Debug\WindowsNoteClient.exe
+D:\RAVI 6TH SEM\SOA\WindowsNoteClient\WindowsNoteClient\obj\Debug\WindowsNoteClient.pdb

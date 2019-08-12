@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="e38c9b39-3bfc-484d-8e5b-4f89e4ed2156" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8000/NoteSerive" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="NoteSerive.xsd" MetadataType="Schema" ID="f9c7a804-dd5c-4735-b9ac-37f6f76e33f3" SourceId="1" SourceUrl="http://localhost:8000/NoteSerive?xsd=xsd3" />
+    <MetadataFile FileName="NoteSerive1.xsd" MetadataType="Schema" ID="432c8297-834d-492b-be59-a2e3b8d1f0ad" SourceId="1" SourceUrl="http://localhost:8000/NoteSerive?xsd=xsd2" />
+    <MetadataFile FileName="NoteSerive2.xsd" MetadataType="Schema" ID="b7aeb08b-dcc1-475a-8d50-e0b93628aba9" SourceId="1" SourceUrl="http://localhost:8000/NoteSerive?xsd=xsd1" />
+    <MetadataFile FileName="NoteSerive3.xsd" MetadataType="Schema" ID="5d038a9a-ec3f-4434-8a9a-03a1c60acf41" SourceId="1" SourceUrl="http://localhost:8000/NoteSerive?xsd=xsd0" />
+    <MetadataFile FileName="NoteSerive.disco" MetadataType="Disco" ID="add1d717-b12d-4a7b-a68d-5b74c8a1817f" SourceId="1" SourceUrl="http://localhost:8000/NoteSerive?disco" />
+    <MetadataFile FileName="NoteService.wsdl" MetadataType="Wsdl" ID="5bd7b8a2-82f2-4c1a-9d40-69c98984af24" SourceId="1" SourceUrl="http://localhost:8000/NoteSerive?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
